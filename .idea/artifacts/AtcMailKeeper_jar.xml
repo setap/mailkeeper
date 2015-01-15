@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AtcMailKeeper:jar">
+    <output-path>/opt/mailkeeper</output-path>
+    <root id="archive" name="AtcMailKeeper.jar">
+      <element id="module-output" name="AtcMailKeeper" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/json-simple-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../JavaKeeper/javamail-1.4.7/javax.mail.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/commons-codec-1.9/commons-codec-1.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/commons-lang3-3.3.2/commons-lang3-3.3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/commons-io-2.4/commons-io-2.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,34 @@
+<component name="libraryTable">
+  <library name="apache-log4j-2.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../libs/javax.mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../libs/json-simple-1.1.1.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../libs/apache-log4j-2.0.2-bin" />
+      <root url="file://$PROJECT_DIR$/../../libs/commons-codec-1.9" />
+      <root url="file://$PROJECT_DIR$/../../libs/commons-io-2.4" />
+      <root url="file://$PROJECT_DIR$/../../libs/commons-lang3-3.3.2" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../../libs/commons-codec-1.9/apidocs" />
+      <root url="file://$PROJECT_DIR$/../../libs/commons-io-2.4/docs" />
+      <root url="file://$PROJECT_DIR$/../../libs/commons-lang3-3.3.2/apidocs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../libs/javamail-samples" />
+      <root url="file://$PROJECT_DIR$/../../libs/javamail-samples/client" />
+      <root url="file://$PROJECT_DIR$/../../libs/javamail-samples/outlook" />
+      <root url="file://$PROJECT_DIR$/../../libs/javamail-samples/webapp/src/classes" />
+      <root url="file://$PROJECT_DIR$/../../libs/javamail-samples/webapp/src/taglib" />
+      <root url="file://$PROJECT_DIR$/../../libs/apache-log4j-2.0.2-bin" />
+      <root url="file://$PROJECT_DIR$/../../libs/commons-codec-1.9" />
+      <root url="file://$PROJECT_DIR$/../../libs/commons-io-2.4" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../libs/apache-log4j-2.0.2-bin" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../libs/commons-codec-1.9" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../libs/commons-io-2.4" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../libs/commons-lang3-3.3.2" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../libs/apache-log4j-2.0.2-bin" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../libs/commons-codec-1.9" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../libs/commons-io-2.4" recursive="false" type="SOURCES" />
+  </library>
+</component>
